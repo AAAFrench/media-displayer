@@ -1,0 +1,7 @@
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\obj\Debug\Lab3A.csprojAssemblyReference.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab3A\obj\Debug\Lab3A.pdb
